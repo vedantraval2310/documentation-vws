@@ -1,0 +1,17 @@
+{
+  "index": "Introduction",
+  "GettingStarted": "Getting Started",
+  "agency": "Agency Management",
+  "subaccount": "Subaccount Management",
+  "funnel": "Funnel pages",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://www.linkedin.com/in/vedant-raval/",
+    "newWindow": true
+  }
+}
